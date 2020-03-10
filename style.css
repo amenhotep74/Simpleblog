@@ -1,0 +1,29 @@
+/* #21759B navbar color */
+
+.top-nav {
+    background-color: #21759B;
+}
+
+.social-icons {
+    list-style-type: none;
+}
+
+.image-headerr {
+    background-image: url('./image/header-banner1.jpg');
+    background-size: 400px 400px;
+    background-repeat: no-repeat;
+}
+
+.post-title {
+    background-color: #21759B;
+    color: white;
+    padding: 1.5%;
+}
+
+.post-date {
+
+}
+
+#profile-pic {
+    border-radius: 50%;
+}
